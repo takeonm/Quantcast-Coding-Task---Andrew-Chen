@@ -7,5 +7,5 @@ and will print the most active cookie(s) seen in the log on that date.
 
 The program is written in python and tested with the unittest library.
 
-Test files are located in the testing_files folder, and all tests can be run using:
+Test files are located in the testing_files folder, and all tests can be run using:\
 ./testing
